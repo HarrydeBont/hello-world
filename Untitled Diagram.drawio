@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T13:01:30.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="20HyhJqNtf4wmCKb2m4S" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T13:01:56.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PCDcdOUhMKDe6EnuXNx4" version="13.10.9" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="1" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="ypw-TfSl6XrEYQ8nw9mo-8" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="750" y="128" width="52" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ypw-TfSl6XrEYQ8nw9mo-9" value="" style="shape=mxgraph.signs.animals.snake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="311" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
